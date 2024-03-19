@@ -1,0 +1,30 @@
+.certi_sec{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid red; */
+    margin: 2rem;
+}
+
+.cert_inner{
+   
+    
+}
+
+.cert_inner > p{
+    font-size: 25px;
+    color: rgb(196, 108, 108);
+    font-weight: 600;
+    
+}
+
+.cert_inner > img{
+    /* border: 5px solid black; */
+    cursor: pointer;
+    transition: transform.2s;
+    margin-top: 1rem;
+    
+}
+
+.cert_inner > img:hover{
+    transform: scaleY(1.1);
+}

@@ -1,0 +1,103 @@
+
+.contacts{
+    display: flex;
+    margin: 2rem;
+    flex-direction: column;
+    /* border: 1px solid red; */
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    
+}
+
+.cont_hhh{
+    margin: 2rem;
+}
+
+.email_sec{
+    display: flex;
+    flex-direction: column;
+    height: 20vh;
+    /* border: 1px solid black; */
+    width: 100%;
+    align-items: center;
+    background-color: #226478;
+    border-radius: 15px;
+}
+
+.h22{
+    height: 50%;
+    /* border: 1px solid yellow; */
+}
+
+.inp_sec{
+    height: 30%;
+    /* border: 1px solid rgb(86, 86, 84); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    padding: 3px;
+    background-color: #2d4d57;
+}
+
+.inp_sec> p{
+    font-size: 15px;
+}
+
+.inp_sec > button{
+    background-color: #383838;
+    padding: 3px;
+    border-radius: 10px;
+    color: yellow;
+}
+
+.clend_sec{
+    height: 40vh;
+    /* border: 1px solid black; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #226478;
+    border-radius: 15px;
+}
+
+.cld_h{
+    height: 20%;
+}
+
+.cld_img{
+    height: 70%;
+}
+.cld_img > img{
+    height: 100%;
+}
+
+.socialll{
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     /* border: 1px solid black; */
+     background-color: #226478;
+    border-radius: 15px;
+}
+
+.social_h{
+    font-size: 20px;
+    height: 30%;
+}
+
+.icns{
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    font-size: 45px;
+    
+}

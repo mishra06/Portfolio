@@ -1,0 +1,93 @@
+.about_main_sec{
+    display: flex;
+    margin: 2rem;
+    /* border: 1px solid red; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.focus_logos > img{
+    height: 60px;
+}
+
+.upper_sec{
+
+   height: 25vh;
+   width: 100%;
+   /* border: 1px solid greenyellow; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #216679;
+   border-radius: 15px;
+
+}
+
+.upper_sec_p{
+
+    width: 95%;
+
+}
+
+.upper_sec_p > p{
+    font-size: 19px;
+    color: #a9b9be;
+}
+
+.xxxx{
+    margin: 0;
+}
+
+.primary{
+    height: auto;
+    width: 100%;
+    /* border: 1px solid red; */
+    border-radius: 15px;
+    /* background-color: #216679; */
+    display: flex;
+    /* padding: 20px; */
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.focus_items{
+    width: 40%;
+    height: 20vh;
+    display: flex;
+    /* gap: 2rem; */
+    padding: 15px;
+    /* border: 1px solid red; */
+    background-color: #275a69;
+    border-radius: 15px;
+}
+
+.focus_logos{
+    width: 30%;
+    /* border: 1px solid yellow; */
+    
+}
+
+.focus_logos > img{
+    border-radius: 25px;
+}
+
+.focus_info{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    font-size: 18px;
+    font-weight: 800;
+    color: #dae2e5;
+    line-height: 20px;
+    width: 80%;
+}
+
+.focus_para{
+    font-size: 16px;
+    color: #c8ccce;
+    font-weight: 600;
+}
